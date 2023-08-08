@@ -3,7 +3,7 @@ clc;
 
 #Parametros iniciales
 
-A = 2;
+A = 5;
 n = -20:1:20;
 
 #Secuencia exponecial creciente
